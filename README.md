@@ -142,6 +142,9 @@ Why image-first beats text-to-video:
 | [Dify](https://dify.ai/) | AI app builder | Custom AI agents for content |
 | [飞书/Feishu Bitable](https://www.feishu.cn/) | Spreadsheet + automation | Content tracking, scheduling |
 | [Airtable](https://airtable.com/) | Database + automation | Project management, asset tracking |
+| Chrome CDP + Playwright 双轨浏览器自动化 | 浏览器自动化 | Chrome MCP 截图/导航/读取 + Playwright CDP JS执行/网络拦截，双轨互补。已知限制：chrome_javascript 返回 undefined |
+| 抖音视频 CDP WebSocket 直连下载 | 视频下载 | Chrome CDP WebSocket 拦截播放请求，sessionid + sid_guard 两个 Cookie 获取 1080p 无水印视频 |
+| 钉钉机器人加签推送 | 自动化推送 | Python hashlib 签名需 UTF-8 encode 后再 base64/hexdigest，与 Golang 实现对齐 |
 
 ### Example: Automated Content Pipeline
 
