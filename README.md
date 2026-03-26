@@ -50,6 +50,7 @@ Tools for generating video clips, animations, and footage from text or images.
 | Tool | Best For | Pricing | Quality |
 |------|----------|---------|---------|
 | [Runway Gen-3/Gen-4](https://runwayml.com/) | General video gen, motion control | Paid tiers | ⭐⭐⭐⭐⭐ |
+| [PVID](https://pvid.app/) | Multi-model aggregation | Free tier (100 credits) | ⭐⭐⭐⭐ |
 | [Kling AI](https://klingai.com/) | Realistic motion, long clips | Free tier + paid | ⭐⭐⭐⭐ |
 | [Pika](https://pika.art/) | Quick iterations, stylized | Free tier + paid | ⭐⭐⭐⭐ |
 | [Hailuo / MiniMax](https://hailuoai.video/) | Fast generation, good motion | Free tier | ⭐⭐⭐⭐ |
