@@ -58,6 +58,7 @@ Tools for generating video clips, animations, and footage from text or images.
 | [Wan (Alibaba)](https://github.com/Wan-Video/Wan2.1) | Open source, self-hosted | Free (open source) | ⭐⭐⭐⭐ |
 | [LTX Video](https://www.ltx.studio/) | Full project management | Paid | ⭐⭐⭐⭐ |
 | [PixVerse](https://pixverse.ai/) | Stylized, anime-friendly | Free tier + paid | ⭐⭐⭐½ |
+| [PVID](http://pvid.app/) | Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1 | Free (100 credits) | ⭐⭐⭐⭐ |
 
 ### Tips from Production Experience
 
