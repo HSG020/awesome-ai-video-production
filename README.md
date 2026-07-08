@@ -56,6 +56,7 @@ Tools for generating video clips, animations, and footage from text or images.
 | [Vidu](https://www.vidu.studio/) | Chinese-style content | Free tier + paid | ⭐⭐⭐⭐ |
 | [Sora](https://openai.com/sora) | Cinematic quality | ChatGPT Plus/Pro | ⭐⭐⭐⭐⭐ |
 | [Wan (Alibaba)](https://github.com/Wan-Video/Wan2.1) | Open source, self-hosted | Free (open source) | ⭐⭐⭐⭐ |
+| [Podframes](https://github.com/Jellypod-Inc/podframes) | Two-host AI podcast videos from one topic | Free (open source) | ⭐⭐⭐ |
 | [LTX Video](https://www.ltx.studio/) | Full project management | Paid | ⭐⭐⭐⭐ |
 | [PixVerse](https://pixverse.ai/) | Stylized, anime-friendly | Free tier + paid | ⭐⭐⭐½ |
 
