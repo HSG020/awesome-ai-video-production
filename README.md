@@ -234,6 +234,8 @@ Shot E  — End card (5s)
 | [Toon Boom Harmony](https://www.toonboom.com/products/harmony) | Traditional + digital animation | Subscription |
 
 ---
+| [ReelWorkshop](https://reelworkshop.com/) | Short-form compilations | Freemium | Browser remix of clips to vertical MP4s |
+
 
 ## Distribution Platforms
 
