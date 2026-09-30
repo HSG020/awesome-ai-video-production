@@ -227,6 +227,7 @@ Shot E  — End card (5s)
 | Tool | Best For | Price |
 |------|----------|-------|
 | [CapCut](https://www.capcut.com/) | Quick edits, subtitles, effects | Free + Pro |
+| [ReelWorkshop](https://reelworkshop.com) | Browser compilation maker for vertical 9:16; edit/preview free | Free + Starter |
 | [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) | Professional editing + color | Free + Studio |
 | [Premiere Pro](https://www.adobe.com/products/premiere.html) | Industry standard editing | Subscription |
 | [After Effects](https://www.adobe.com/products/aftereffects.html) | Motion graphics, VFX | Subscription |
