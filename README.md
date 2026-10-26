@@ -45,6 +45,7 @@ Built by a practitioner running a full AI content production studio.
 
 ## AI Video Generation
 
+- [Ideoy](https://ideoy.ai) - Freemium AI meme & image-to-video generator: turn images/memes into short viral videos.
 Tools for generating video clips, animations, and footage from text or images.
 
 | Tool | Best For | Pricing | Quality |
