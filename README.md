@@ -77,6 +77,9 @@ For creating keyframes, storyboard frames, backgrounds, and character assets.
 | [Midjourney v6/v7](https://midjourney.com/) | Photorealistic, cinematic frames | Cinematic, editorial |
 | [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium | Freemium |
 | [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official … | Freemium |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid |
+| [Bad Times AI](https://badtimesai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid |
 | [Midjourney Niji](https://midjourney.com/) | Anime, illustration, 2D styles | Anime, manga, children's |
 | [Stable Diffusion (SDXL)](https://stability.ai/) | Full control, custom models, batch | Any (with LoRA/ControlNet) |
 | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | Node-based SD workflows | Pipeline automation |
